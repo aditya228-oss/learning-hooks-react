@@ -27,3 +27,13 @@ note project/src/assets/hero.png
 note project/src/assets/react.svg
 note project/src/assets/vite.svg
 note project/vite.config.js
+gallery project/eslint.config.js
+gallery project/package-lock.json
+gallery project/package.json
+gallery project/public/favicon.svg
+gallery project/public/icons.svg
+gallery project/src/assets/hero.png
+gallery project/src/assets/react.svg
+gallery project/src/assets/vite.svg
+gallery project/vite.config.js
+gallery project/README.md
